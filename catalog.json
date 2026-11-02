@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "apps": [
+    {
+      "id": "ll97",
+      "name": "LL97 Model",
+      "category": "Work",
+      "description": "Building energy scenarios, equipment surveys, and LL97 screening.",
+      "limitations": "Illustrative engineering model. Not a compliance determination or filing.",
+      "packageName": "com.loudmouf.ll97",
+      "versionCode": 2,
+      "versionName": "1.1",
+      "downloadUrl": "https://github.com/LoudMouf/vibe-app-releases/releases/download/apps-v1/ll97.apk",
+      "sha256": "676d054241b5959d5801a695e98a4d250fce898df8dc0a1430258e21e13713bc",
+      "sizeBytes": 1298665,
+      "signerSha256": "a8326086198e10ceb033356ae6903b85c54f1feb97df0187ae59cf4ee5865b12",
+      "icon": "icons/ll97.png"
+    },
+    {
+      "id": "nj",
+      "name": "NJ Energy Explorer",
+      "category": "Work",
+      "description": "NJ building energy audits, residential workflows and scenario comparisons.",
+      "limitations": "Preliminary program eligibility only. Utility approval and current-source review are separate.",
+      "packageName": "com.loudmouf.nj",
+      "versionCode": 2,
+      "versionName": "1.1",
+      "downloadUrl": "https://github.com/LoudMouf/vibe-app-releases/releases/download/apps-v1/nj.apk",
+      "sha256": "f4546265f64faff92bec1d154ad0614e847e3539ee8c26805470a5036eec0ad9",
+      "sizeBytes": 884299,
+      "signerSha256": "a8326086198e10ceb033356ae6903b85c54f1feb97df0187ae59cf4ee5865b12",
+      "icon": "icons/nj.png"
+    },
+    {
+      "id": "htl",
+      "name": "HTL Calculator",
+      "category": "Work",
+      "description": "Hydrothermal liquefaction screening calculator, intake forms and interactive 3D system.",
+      "limitations": "Browser edition only. Python/Streamlit lab runner is not included. Not an engineering design or safety approval.",
+      "packageName": "com.loudmouf.htl",
+      "versionCode": 2,
+      "versionName": "1.1",
+      "downloadUrl": "https://github.com/LoudMouf/vibe-app-releases/releases/download/apps-v1/htl.apk",
+      "sha256": "8b0239336bece228a66dce5c9501dfd6b7bd4952761aafc4df2c41fe32eb4a0d",
+      "sizeBytes": 2347121,
+      "signerSha256": "a8326086198e10ceb033356ae6903b85c54f1feb97df0187ae59cf4ee5865b12",
+      "icon": "icons/htl.png"
+    },
+    {
+      "id": "mushroom",
+      "name": "Mushroom Fieldbook",
+      "category": "Life",
+      "description": "Track mushroom grows, batches, observations and harvests on your phone.",
+      "limitations": "Photo capture uses the Android file picker. JSON backups do not include original photo bytes.",
+      "packageName": "com.loudmouf.mushroom",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "downloadUrl": "https://github.com/LoudMouf/vibe-app-releases/releases/download/apps-v1/mushroom.apk",
+      "sha256": "8b5a99e7213e866116ce052826b83f24d98ea04cd7aed210d25b701b75d883ec",
+      "sizeBytes": 135769,
+      "signerSha256": "a8326086198e10ceb033356ae6903b85c54f1feb97df0187ae59cf4ee5865b12",
+      "icon": "icons/mushroom.png"
+    },
+    {
+      "id": "wefit",
+      "name": "WeFit",
+      "category": "Life",
+      "description": "Track meals, training, progress and accountability in one local app.",
+      "limitations": "Optional AI integrations are not configured. Export backups to preserve local records.",
+      "packageName": "com.loudmouf.wefit",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "downloadUrl": "https://github.com/LoudMouf/vibe-app-releases/releases/download/apps-v1/wefit.apk",
+      "sha256": "ec6fb54ef5d419533fda3185349f0c2355e38961245bf0d121c44dac3e9b7889",
+      "sizeBytes": 218246,
+      "signerSha256": "a8326086198e10ceb033356ae6903b85c54f1feb97df0187ae59cf4ee5865b12",
+      "icon": "icons/wefit.png"
+    }
+  ]
+}
